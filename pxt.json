@@ -1,0 +1,29 @@
+{
+    "name": "Fuel Up #2",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "pxt-status-bar": "github:jwunderl/pxt-status-bar"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "images.g.jres",
+        "images.g.ts",
+        "pxt.json",
+        "_history"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "2.0.56",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
